@@ -14,8 +14,7 @@ The file "RGC_Model.ipynb" is the base script that generates the neuron model, a
   
 The files "Axon_Ellipse.ipynb" and "Extracellular_Stimulation.ipynb" contain functions called by the base script that generate the axon trajectory and apply an extracellular stimulus pulse, respectively. 
 
-The files "capump.mod", "mammalian_spike.mod", and "xtra.mod" contain the biophysical equations used by the NEURON simulation environment (https://neuron.yale.edu/neuron/): Hines, Michael L., and Nicholas T. Carnevale. "The NEURON simulation environment." Neural computation 9.6 (1997): 1179-1209. Carnevale, Nicholas T., and Michael L. Hines. The NEURON book. Cambridge University Press, 2006.
-These .mod files must be compiled prior to using the model. 
+The files "capump.mod", "mammalian_spike.mod", and "xtra.mod" contain the biophysical equations used by the NEURON simulation environment (https://neuron.yale.edu/neuron/). These .mod files must be compiled prior to using the model. 
 
 The files "interpxyz.hoc", "setpointers.hoc", and "RGC_morph_4.hoc" contain functions called by the base script that relate to the 3-D morphology of the cell. 
 
