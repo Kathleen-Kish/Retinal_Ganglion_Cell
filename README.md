@@ -5,7 +5,7 @@ July 29, 2022
 
 Source files to model extracellular stimulation of a retinal ganglion cell. Associated with the following paper: Kathleen Kish, Scott Lempka, and James Weiland. "Modelling extracellular stimulation of retinal ganglion cells: theoretical and practical aspects." 
 
-Included is the Python code (jupyter notebook) to generate a morphologically-realistic retinal ganglion cell, as well as .mod files for biophysical modeling in the NEURON software environment. 
+Included is the Python code (jupyter notebook) to generate a morphologically-realistic mammalian retinal ganglion cell, as well as .mod files for biophysical modeling in the NEURON software environment. 
 
 The file "RGC_Model.ipynb" is the base script that generates the neuron model, and allows for 
   1. Intracellular Current Injection
