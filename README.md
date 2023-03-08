@@ -3,7 +3,7 @@
 Kathleen Kish
 July 29, 2022
 
-Source files to model extracellular stimulation of a retinal ganglion cell. Associated with the following paper: Kathleen Kish, Scott Lempka, and James Weiland. "Modelling extracellular stimulation of retinal ganglion cells: theoretical and practical aspects." 
+Source files to model extracellular stimulation of a retinal ganglion cell. Associated with the following paper: Kathleen Kish, Scott Lempka, and James Weiland. "Modelling extracellular stimulation of retinal ganglion cells: theoretical and practical aspects." doi: https://doi.org/10.1088/1741-2552/acbf79
 
 Included is the Python code (jupyter notebook) to generate a morphologically-realistic mammalian retinal ganglion cell, as well as .mod files for biophysical modeling in the NEURON software environment. 
 
